@@ -1,6 +1,6 @@
 import { createRoot } from 'react-dom';
 
-import SearchParams from './components/Pet/SearchParams/SearchParams';
+import SearchParams from './components/SearchParams/SearchParams';
 
 const App = () => {
     return (
